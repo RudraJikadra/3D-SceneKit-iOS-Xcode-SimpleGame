@@ -7,7 +7,9 @@ If you tap the red onces then the whole background will go red indicating its th
 ## Features
 Uses Apple's Sprite Kit for 3D Object rendering.
 
-### Config
-Done in Xcode 9 with Swift 4
+### Note
+Project was build in Xcode 9 with Swift 4.
+The 3D Folder contains the swift files and the rest that is in xcode project workspace.
+The "3D.xcodeproj" is the File that will open this project in Xcode.
 
 ## How does it looks like
